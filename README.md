@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**kazimustafa95/kazimustafa95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pathan waqar/pathanwaqar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Mustafa Kazi - Senior Full-Stack Developer
+# waqar pathan - Senior Full-Stack Developer
 ![Top Rated Upwork Profile](https://miro.medium.com/v2/resize:fit:640/format:webp/1*y_Z7EtAbGcA-oZhW3PThWw.jpeg)
 ## Introduction
-Hello! I'm Mustafa Kazi, a Senior Full-Stack Developer with over 10 years of experience. Specializing in WordPress, PHP/Laravel, and e-commerce solutions, I have a proven track record of delivering top-tier web solutions, enhancing business operations, and driving digital growth.
+Hello! I'm waqar pathan, a Senior Full-Stack Developer with over 10 years of experience. Specializing in WordPress, PHP/Laravel, and e-commerce solutions, I have a proven track record of delivering top-tier web solutions, enhancing business operations, and driving digital growth.
 
 ## Core Competencies and Technical Skills
 * **WordPress Development**: Expert in developing advanced WordPress sites, including custom themes and plugins, tailored for unique business needs.
