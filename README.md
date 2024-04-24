@@ -39,5 +39,5 @@ I hold a Bachelor’s Degree in Computer Science, supplemented by continuous pro
 If you're looking to transform your web presence with a skilled Full-Stack Developer, let's connect and explore how my expertise can propel your project to success. You can reach me via email at [pathanwaqar26@gmail.com](mailto:pathanwaqar26@gmail.com) or visit my UpWork profile [here](https://www.upwork.com/freelancers/waqarpathan).
 
 ## Available Services
-For inquiries regarding my services, please feel free to contact me directly. I offer my services at a rate of $65.00 per hour.
+For inquiries regarding my services, please feel free to contact me directly. I offer my services at a rate of $25.00 per hour.
 
