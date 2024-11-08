@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # waqar pathan - Senior Full-Stack Developer
-![Top Rated Upwork Profile](https://miro.medium.com/v2/resize:fit:640/format:webp/1*y_Z7EtAbGcA-oZhW3PThWw.jpeg)
+![Top Rated Upwork Profile]
 ## Introduction
 Hello! I'm waqar pathan, a Senior Full-Stack Developer with over 10 years of experience. Specializing in WordPress, PHP/Laravel, and e-commerce solutions, I have a proven track record of delivering top-tier web solutions, enhancing business operations, and driving digital growth.
 
