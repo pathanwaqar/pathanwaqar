@@ -39,11 +39,11 @@ Zoho's platform covers a lot more than CRM, and I focus on the areas developers 
 - **Zoho People & Zoho Desk** — Cross-product automation, e.g. auto-generating onboarding tickets in Desk from new-hire records in People.
 
 ## Featured Zoho Projects
-- [Catalyst SaaS Starter](https://github.com/pathanwaqar/catalyst-saas-starter) — multi-tenant app built end-to-end on Catalyst (AppSail, Data Store, Auth, Stratus, Signals, Job Scheduling)
-- [Zoho CRM Extension Kit](https://github.com/pathanwaqar/zoho-crm-extension-kit) — CRM widgets, custom functions, webhook automation
-- [CRM → Books Billing Bridge](https://github.com/pathanwaqar/crm-books-billing-bridge) — Deal-to-invoice automation between CRM and Books
-- [Embedded Analytics Dashboard](https://github.com/pathanwaqar/embedded-analytics-dashboard) — API-driven Zoho Analytics dashboards with row-level security
-- [People + Desk Onboarding Automation](https://github.com/pathanwaqar/people-desk-onboarding-automation) — HR-to-IT onboarding ticket automation
+- [Catalyst SaaS Starter](https://github.com/pathanwaqar/Zoho-Catalyst-SaaS-Starter) — multi-tenant app built end-to-end on Catalyst (AppSail, Data Store, Auth, Stratus, Signals, Job Scheduling)
+- [Zoho CRM Extension Kit](https://github.com/pathanwaqar/Zoho-CRM-Extension-Kit) — CRM widgets, custom functions, webhook automation
+- [CRM → Books Billing Bridge](https://github.com/pathanwaqar/CRM-Books-Billing-Bridge) — Deal-to-invoice automation between CRM and Books
+- [Embedded Analytics Dashboard](https://github.com/pathanwaqar/Zoho-Embedded-Analytics-Dashboard) — API-driven Zoho Analytics dashboards with row-level security
+- [People + Desk Onboarding Automation](https://github.com/pathanwaqar/People-Desk-Onboarding-Automation) — HR-to-IT onboarding ticket automation
 
 ## Key Achievements
 * Successfully launched diverse e-commerce platforms, significantly boosting online presence and revenue for clients.
